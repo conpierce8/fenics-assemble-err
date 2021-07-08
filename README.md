@@ -54,5 +54,5 @@ bottom boundaries:
 
 ### Method 3
 
-![Correct solution - method 2](method2.png)
+![Correct solution - method 3](method3.png)
 
